@@ -1,0 +1,16 @@
+
+max_users = 150
+redirect_url = "https://www.example.com/redirect"
+
+host = "127.0.0.1"
+port = 3306
+username = "user"
+password = "securepassword"
+connection_url = "https://www.example.com/resource"
+
+log_level = "INFO"
+log_file_path = "/tmp/app_info.log"
+
+
+capacity = 256
+expiry = 3600

@@ -19,7 +19,7 @@ language toml
 **Values**
 - Numbers
 - Arrays
-- 
+
 **Declaring a constant**
 
 ```
